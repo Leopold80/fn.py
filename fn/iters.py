@@ -1,6 +1,6 @@
 from sys import version_info
 from collections import deque
-from
+from typing import Iterable
 from operator import add, itemgetter, attrgetter, not_
 from functools import partial
 from itertools import (islice,
